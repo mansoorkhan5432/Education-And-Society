@@ -1,0 +1,559 @@
+@media only screen and (max-width: 1200px) {
+    
+    nav { padding: 0 3%; }
+    
+    .header-bg {
+        padding: 0 3%;    
+    }
+    
+    .hero-img { margin-top: 180px; }
+    
+    .layer-img { max-width: 100%; height: auto; }
+    
+    
+    .hero-text {
+        font-size: 230%;
+        top: 160px;
+    }
+    
+    .mission {
+        top: 275px;
+        font-size: 120%;
+    }
+    
+    .header-text {
+        padding-left: 2%;
+    }
+    
+    .btn:link, 
+    .btn:visited { 
+        top: 390px; 
+        font-size: 110%;
+    }
+    
+    .section-department { margin-top: 100px; }
+    .department-para { margin-bottom: 40px; }
+    
+    .dep-rectangle {
+        margin-right: 7px;
+        height: 330px;
+    }
+    
+    .dep-box { padding: 0 2%; }
+    .dep-rectangle:last-of-type { margin-right: 0; }
+    
+    .dep-image { height: 180px; }
+    
+    .section-about { padding: 0 2%; }
+    .img-flower {
+        width: 280px;
+        height: 280px;
+    }
+    
+    .video {
+        padding: 10px;
+        width: 340px;
+        height: 340px;
+        top: 25px;
+        left: 130px;
+    }
+    
+    .section-offers { 
+        margin-top: 60px; 
+        padding: 0 2%;
+    }
+    
+    .offers-img { height: 130px; }
+    
+    .footer-title { line-height: 20px; }
+    .footer-container { padding: 40px 2%; }
+    .footer-title i { font-size: 240%; }
+    .footer-title div h2 { font-size: 140%; }
+    .footer-title div p { 
+        font-size: 80%;
+        line-height: 12px;
+    }
+    
+    .social-links li { margin-right: 8px; }
+    
+    .social-links li a { font-size: 140%; }
+    
+     h3 { 
+        margin-bottom: 55px;
+        font-size: 95%;
+    }
+    
+    .footer-issues li { margin-bottom: 20px; }
+    
+    .learning-links li { margin-bottom: 35px; }
+    
+    .footer-end { padding: 15px 2%; }
+    
+    .last-list li { margin-left: 20px; } 
+}
+
+@media only screen and (max-width: 1023px) {
+    .main-nav li { margin-left: 25px; }
+    
+    .main-nav li a:link,
+    .main-nav li a:visited { font-size: 110%; }
+    
+    .main-nav li a.apply-now { padding: 5px 8px; }
+    
+    .vector-left {
+        width: 15%;
+        height: 90px;
+        bottom: 0px;
+        left: -10px;
+    }
+    
+    .vector-right {
+        width: 8%;
+        right: 40px;
+        height: 110px;
+        bottom: -10px;
+    }
+    
+    .hero-text {
+        width: 45%;
+        font-size: 200%;
+    }
+    
+    .mission { 
+        
+        width: 40%;
+        line-height: 20px;
+        font-size: 110%;
+    }
+    
+    .btn:link, 
+    .btn:visited {
+        
+        padding: 5px 8px;
+        font-size: 100%;
+    }
+    
+    .dep-title {
+        font-size: 230%;
+        margin: 0 auto;
+    }
+    
+    .department-para { 
+        margin-top: 20px; 
+        width: 50%;
+    }
+    
+    .dep-rectangle {
+        height: 250px;
+    }
+    
+    .dep-image {
+        height: 150px;
+    }
+    
+    .dep-rectangle div { font-size: 140%; }
+    
+    .img-flower {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .video {
+        border: 7px solid #fdf6ee;
+        padding: 7px;
+        width: 240px;
+        height: 240px;
+        top: 10px;
+        left: 90px;
+    } 
+    
+     h1 { font-size: 200%; }
+    
+     h2 { font-size: 180%; }
+    
+     p { font-size: 95%; }
+    
+    .offers-title {
+        font-size: 200%;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    
+    .offers-img { height: 90px; }
+    
+    .all-container { height: 250px; }
+    
+     footer { margin-top: 50px; }
+    .footer-title i { font-size: 220%; }
+    .footer-title div h2 { font-size: 130%; }
+    .footer-title div p { 
+        font-size: 70%;
+        line-height: 10px;
+    }
+    .footer-para { padding: 20px 0; }
+    .footer-container {
+        margin: 0 5%;
+        padding: 30px 0;
+    }
+     h3 { 
+        margin-bottom: 35px;
+        font-size: 90%;
+    }
+    .footer-issues li { margin-bottom: 15px; }
+    .learning-links li { margin-bottom: 30px; }
+    .last-list li { margin-left: 20px; }
+    input {
+        height: 30px;
+        padding: 95px;
+    }
+    input[type=submit] {
+        font-size: 85%;
+    }
+    .footer-end-bar { margin: 0 5%; }
+}
+
+@media only screen and (max-width: 767px) {
+    .main-nav {  display: none; }
+    
+    .mobile-nav-icon {  
+        display: inline-block; 
+        margin-top: 20px;
+    }
+    
+    .mobile-nav-icon i {
+        font-size: 200%;    
+    }
+    
+    .logo { 
+        float: left; 
+        width: 50px;
+        height: 50px;
+        margin-top: 10px;
+    }
+    
+    .main-nav { 
+        float: left;
+        margin-top: 0;
+        margin-left: 55%;
+    }
+    
+    .main-nav li { display: block; }
+    
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 0;
+        font-size: 100%;
+    }
+    
+    .main-nav li a.apply-now {
+        color: #fff;
+        border: 0;
+        background-color: #ffc279;
+        padding: 5px;
+        font-size: 80%;
+    }
+    
+    .sticky .logo { 
+        width: 40px;
+        height: 40px;
+    }
+    
+    .sticky .mobile-nav-icon { margin-top: 20px; }
+    
+    .sticky .navbar { width: 100%; }
+    
+    .sticky .main-nav { margin-top: 0; } 
+    
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited { padding: 0; }
+    
+    .sticky .main-nav li a.apply-now { 
+        padding: 5px; 
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    
+    .vector-left {
+        width: 15%;
+        height: 60px;
+        bottom: 0px;
+        left: -5px;
+    }
+
+    .layer-img {
+        height: 100px;
+        bottom: -98px;
+    }
+    
+    .vector-right {
+        width: 8%;
+        height: 80px;
+        right: 30px;
+        bottom: -10px;
+    }
+    
+    .hero-text {
+        top: 80px;
+        width: 60%;
+        font-size: 150%;
+    }
+    
+    .mission { 
+        top: 150px; 
+        width: 50%;
+        font-size: 95%;
+    }
+    
+    .btn:link, 
+    .btn:visited { 
+        top: 220px;
+        padding: 3px 5px;
+        font-weight: 400;
+        letter-spacing: 0;
+        font-size: 95%;
+    }
+    
+    .section-department { margin-top: 90px; }
+    
+    .dep-title { font-size: 200%; }
+    
+    .department-para { 
+        margin-top: 15px; 
+        width: 70%;
+    }
+    
+    .dep-rectangle { height: 190px; }
+    
+    .dep-image { height: 100px; }
+    
+    .dep-rectangle div { font-size: 120%; }
+    
+    .img-video-container { display: none; } 
+    
+    .limitless { width: 100%; }
+    
+    .para {
+        width: 100%;
+        font-weight: 500;
+        letter-spacing: 1px;
+        line-height: 25px;
+        font-size: 90%;
+        margin: 0 auto;
+    }
+    
+     h1 { font-size: 200%; }
+    
+    .info { justify-content: space-around; }
+    
+    .section-offers { padding: 0 20%; }
+    
+    .all-container { 
+        width: 100%; 
+        margin-bottom: 20px;
+        height: 350px;
+    }
+    
+    .offers-img { height: 200px; }
+    
+    .offers-para { font-size: 90%; }
+
+     footer { margin-top: 35px; }
+    
+    .footer-col {
+        display: block;
+        width: 100%;
+    }
+    
+    .footer-container {
+        margin: 0 3%;
+        padding: 30px 0;
+    }
+    
+    .footer-para { padding: 20px 0; }
+    
+    .footer-title i { font-size: 230%; }
+    
+    .footer-title div h2 { font-size: 180%; }
+    .footer-title div p {
+        font-size: 80%;
+        line-height: 18px;
+    }
+
+    .footer-para { 
+        padding: 20px 0;
+        font-size: 100%;
+        line-height: 20px;
+    }
+    
+    .social-links li { margin: 0 10px 10px 5px; }
+    
+    .fa-twitter { color: #55acee; }
+    .fa-linkedin { color: #0077B5; }
+    .fa-facebook-square { color: #3b5999; }
+    .fa-skype { color: #00AFF0; }
+    .fa-pinterest-square { color: #bd081c; }
+    .fa-apple { color: #A3AAAE; }
+    
+     h3 {
+        margin-top: 30px;
+        margin-bottom: 15px;
+        font-size: 100%;
+    }
+    
+    .footer-issues li { margin-bottom: 15px; }
+    
+    .footer-issues li a { font-size: 100%; }
+   
+    .learning-links li { margin-bottom: 15px; }
+    
+    .learning-links li:last-child { margin-bottom: 0; }
+    
+    .learning-links li a { font-size: 100%; } 
+    
+    .email-para {  
+        width: 60%; 
+        font-size: 100%;
+    }
+    
+    input[type=email] { width: 60%; }
+    
+    input[type=submit] { float: none; }
+    
+    .footer-end-bar {  margin: 0 auto; }
+
+    .footer-end-bar p {
+        float: none;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    
+    .last-list {
+        display: flex;
+        float: none;
+        justify-content: center;
+    }
+    
+    .last-list li { margin-left: 20px; }
+    
+    .last-list li a { color: #c6c0c0; }
+
+}
+
+@media only screen and (max-width: 480px) {
+    
+    .logo {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .sticky .logo {
+        width: 40px;
+        height: 40px;
+    }
+    
+    .sticky .mobile-nav-icon i { font-size: 180%; }
+    
+    .mobile-nav-icon { margin-top: 15px; }
+    
+    .mobile-nav-icon i { font-size: 200%; }
+    
+    .main-nav { 
+        margin-top: 15px; 
+        margin-left: 40%;
+    }
+    
+    .vector-left {
+        height: 40px;
+        bottom: 0;
+        left: -5px;
+    }
+
+    .layer-img { 
+        height: 70px; 
+        bottom: -70px;
+    }
+    
+    .vector-right {
+        height: 50px;
+        right: 10px;
+        bottom: -5px;
+    }
+    
+    .hero-text {
+        top: 80px;
+        width: 55%;
+        font-size: 100%;
+    }
+    
+    .mission { 
+        top: 125px; 
+        width: 60%;
+        font-size: 85%;
+        line-height: 10px;
+    }
+    
+    .btn:link, 
+    .btn:visited { 
+        top: 170px;
+        padding: 3px 3px;
+        font-weight: 300;
+        font-size: 70%;
+    }
+    
+    .section-department { margin-top: 60px; }
+    
+    .dep-title { font-size: 150%; }
+    
+    .department-para {
+        width: 100%;
+        font-size: 95%;
+        margin-bottom: 20px;
+        line-height: 15px;
+    }
+    
+    .dep-rectangle { height: 170px; }
+    
+    .dep-image { height: 80px; }
+    
+    .dep-rectangle div { font-size: 100%; }
+    
+    .video {
+        top: -20px;
+        left: 60px;
+        width: 200px;
+        height: 200px;
+    } 
+    
+     h1 {
+        font-size: 160%; 
+        font-weight: 500;
+    }
+    
+    .para {
+        font-weight: 400;
+        margin-top: 20px;
+    }
+    
+     h2 { font-size: 150%; }
+    
+     p { font-size: 85%; }
+    
+    .offers-title { font-size: 160%; }
+    
+    .offers-img { height: 120px; }
+    
+    .offers-link a:link,
+    .offers-link a:visited {
+        font-weight: 500;
+        font-size: 90%;
+    }
+    
+    .all-container { 
+        width: 100%; 
+        margin-bottom: 20px;
+        height: 270px;
+    } 
+}
